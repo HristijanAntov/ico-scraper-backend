@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://cointelegraph.com",
+  "port": 8080,
+  "pagingSize": 5,
+  "slotSize": 10,
+  "delayBetweenSlots": 1500,
+  "imagesDirectory": "images",
+  "retryDelay": 1000,
+  "maxRetries": 3,
+  "placeholderIconUrl": "/images/ico-placeholder.png",
+  "backgroundCrawlInterval": "*/30 * * * *"
+}
