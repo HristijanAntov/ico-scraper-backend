@@ -3,7 +3,7 @@
     {
       "id": "loomia-private-sale",
       "name": "LOOMIA (Private Sale)",
-      "startDate": "Mar 13, 2018",
+      "startDate": "Mar 27, 2018",
       "endDate": "Apr 02, 2018",
       "iconLocalUrl": "/images/loomia-private-sale.png",
       "website": "http://loomia.com/token/",
@@ -13,7 +13,7 @@
         "LOOMIA TILE works in conjunction with the LOOMIA Electronic Layer (LEL), a soft flexible circuit embedded into textiles with the ability to sense changes in its environment, such as heat and touch.Users can transfer their data to a desktop application that allows them to manage and sell their data to market researchers.The app is completely serverless and leverages the blockchain for security and data integrity.In addition, the LOOMIA TILE’s unique ability to associate an individual’s physical identity to their digital identity presents an interesting starting point for a wide range of third party integrations."
       ],
       "tokenSymbol": "TILE",
-      "category": "ongoing"
+      "category": "past"
     },
     {
       "id": "luxcess-group",
@@ -33,7 +33,7 @@
       "id": "vlb",
       "name": "VLB",
       "startDate": "Feb 05, 2018",
-      "endDate": "Apr 09, 2018",
+      "endDate": "Mar 30, 2018",
       "iconLocalUrl": "/images/vlb.png",
       "website": "http://vlb.io/",
       "shortDescription": "Blockchain Fuel for the Vehicle Lifecycle Industry",
@@ -41,7 +41,7 @@
         "VLB Tokens streamline the $1.8 trillion vehicle lifecycle industry. Vehicle Lifecycle Blockchain creates cost saving and operations optimization opportunities for auto industry players. Value of these opportunities exceeds the value of VLB Tokens at ICO by multiple orders of magnitude. Vehicle Lifecycle Blockchain will ultimately be fully decentralized and will be deployed by CarFix in cooperation with QIWI Blockchain Technologies (NASDAQ: QIWI). CarFix, the issuer of VLB Tokens, is a transaction platform that is reshaping one of the largest consumer industries in the world – auto sale, repair & maintenance. CarFix, just after 18 months since creation, has already brought a significant degree of order and transparency into the industry. CarFix has developed and implemented software that establishes algorithm based final fixed prices for all key repair and maintenance works. CarFix has support of institutional investors."
       ],
       "tokenSymbol": "VLB",
-      "category": "ongoing"
+      "category": "past"
     },
     {
       "id": "sapien-accredited-crowdsale",
@@ -56,7 +56,7 @@
         "SPN is a flexible, ERC20-compliant cryptocurrency that will incentivize quality content, power all platform actions, and serve as the backbone of our tokenized economy."
       ],
       "tokenSymbol": "SPN",
-      "category": "ongoing"
+      "category": "past"
     },
     {
       "id": "vestarin",
@@ -70,7 +70,7 @@
         "Vestarin is a unique platform for the cryptocurrency market. You can find the right people to work with the blockchain projects. Spend crypto for daily needs, shopping, restaurants or services without changing it to fiat money. Be more informed from trusted people about new ICO start-ups before investing in them, as well as about a lot more features such as informational base, news, forum and mining farms market, in order for businesses to integrate an establishment or a shop in any country and get a profit in cryptocurrency."
       ],
       "tokenSymbol": "VST",
-      "category": "ongoing"
+      "category": "past"
     },
     {
       "id": "knowledge-knw",
@@ -335,8 +335,8 @@
     {
       "id": "bittwatt",
       "name": "Bittwatt",
-      "startDate": "Mar 23, 2018",
-      "endDate": "Apr 28, 2018",
+      "startDate": "Apr 01, 2018",
+      "endDate": "Jun 08, 2018",
       "iconLocalUrl": "/images/bittwatt.png",
       "website": "http://www.bittwatt.com",
       "shortDescription": "Energy for the 21st century",
@@ -441,7 +441,7 @@
       "id": "conciergeio",
       "name": "Concierge.io",
       "startDate": "Mar 31, 2018",
-      "endDate": "Apr 30, 2018",
+      "endDate": "Apr 27, 2018",
       "iconLocalUrl": "/images/conciergeio.png",
       "website": "http://token.concierge.io",
       "shortDescription": "Travel Booking Marketplace",
@@ -621,8 +621,8 @@
     {
       "id": "concertvr-simply-be-there",
       "name": "concertVR - Simply BE there!",
-      "startDate": "Apr 02, 2018",
-      "endDate": "May 02, 2018",
+      "startDate": "Apr 15, 2018",
+      "endDate": "May 15, 2018",
       "iconLocalUrl": "/images/concertvr-simply-be-there.png",
       "website": "http://www.concertVR.io",
       "shortDescription": "Live Concerts in VR",
@@ -660,7 +660,7 @@
         "The size of the cloud services market providing both storage capacities and computational processing capabilities to companies and to corporates is estimated by 45 billion USD per annum and it steadily grows. The market is dominated by four major players: AWS, Google Cloud, Microsoft and IBM, all utilize central and less trusted storage and computation facilities. Due to their oligopolistic dominance, the four providers of cloud services set high pricing levels. These providers are also capable of hampering any competition and preventing new market entrants from competing with them, due to the broad scale of their operations and their substantial investments in data centers, servers and storage facilities."
       ],
       "tokenSymbol": "IAG",
-      "category": "upcoming"
+      "category": "ongoing"
     },
     {
       "id": "bounty-angels-preico",
@@ -694,7 +694,7 @@
     {
       "id": "medcredits-preico",
       "name": "MedCredits (Pre-ICO)",
-      "startDate": "Apr 09, 2018",
+      "startDate": "TBD",
       "endDate": "TBD",
       "iconLocalUrl": "/images/medcredits-preico.png",
       "website": "http://medcredits.io/",
@@ -766,8 +766,8 @@
     {
       "id": "fluence",
       "name": "Fluence",
-      "startDate": "TBD",
-      "endDate": "TBD",
+      "startDate": "Aug 07, 2017",
+      "endDate": "Aug 15, 2017",
       "iconLocalUrl": "/images/fluence.png",
       "website": "http://fluence.ai/",
       "shortDescription": "Data Storage",
@@ -775,7 +775,7 @@
         "Fluence consists of two essential parts: decentralized database and open data market. To create decentralized, fault-tolerant, censorship resistant database for any structured data, Fluence builds ecosystem when storage owners are incentivized for renting their capacities to data owners. Data market is represented by low-level API interface on top of the database and centralized website."
       ],
       "tokenSymbol": "FPT",
-      "category": "upcoming"
+      "category": "past"
     },
     {
       "id": "mevu",
@@ -928,8 +928,8 @@
     {
       "id": "auctus",
       "name": "Auctus",
-      "startDate": "Mar 27, 2018",
-      "endDate": "Mar 31, 2018",
+      "startDate": "Apr 10, 2018",
+      "endDate": "Apr 20, 2018",
       "iconLocalUrl": "/images/auctus.png",
       "website": "http://auctus.org/",
       "shortDescription": "Smart Contract Powered Retirement Plans",
@@ -939,7 +939,7 @@
         "Auctus’ vision is to create a platform by the community, for the community and to be as decentralized a possible."
       ],
       "tokenSymbol": "AUC",
-      "category": "past"
+      "category": "upcoming"
     },
     {
       "id": "kickcity",
@@ -5620,6 +5620,95 @@
       ],
       "tokenSymbol": "",
       "category": "past"
+    },
+    {
+      "id": "skyfchain",
+      "name": "SKYFchain",
+      "startDate": "Mar 10, 2018",
+      "endDate": "Jun 15, 2018",
+      "iconLocalUrl": "/images/skyfchain.png",
+      "website": "http://www.skyfchain.io/",
+      "shortDescription": "Platform for Cargo Robotics Industry",
+      "fullDescription": [
+        "SKYFchain is the first B2R (Business-to-Robots) blockchain based operating platform. This private blockchain system provides independent secure data-exchange and payment channels for a total support of robot - centric logistics. The SKYFChain Operating Platform will based on private blockhain. It will use ERC20 compatible protocol for SKYFT tokens and build payment channels for exchange transactions. SKYFchain is unique because it will be designed to exclude the human as an intermediary and it will have access to confirmed clients of the first industrial heavy duty cargo drone – the SKYF drone, which is already flying. Technically, the main purpose of the SKYFchain is to integrate critical information for all market participants and organize execution of smart-contracts for transactions. SKYFchain aims to create the whole new industry of airborne cargo drones and later invite groundborne and sea-borne cargo robots for the new business opportunities."
+      ],
+      "tokenSymbol": "",
+      "category": "ongoing"
+    },
+    {
+      "id": "gig9-preico",
+      "name": "GIG9 (Pre-ICO)",
+      "startDate": "Apr 05, 2018",
+      "endDate": "Apr 30, 2018",
+      "iconLocalUrl": "/images/gig9-preico.png",
+      "website": "http://www.gig9.io/",
+      "shortDescription": "Local Services, Global Opportunities",
+      "fullDescription": [
+        "Decentralized self-regulated freelance ecosystem, directly connecting local service providers in your own communities, powered by blockchain-based smart contracts. The GIG9 token (9Coin) is a pioneering and revolutionary token model based on real services performed in the $2 trillion gig economy.",
+        "GIG9: the future of the global services industry, reimagined on the Ethereum blockchain technology. GIG9’s revolutionary platform will be first of its kind to promoting a peer-to-peer decentralized marketplace, controlled independently by the market participants.",
+        "Based on the Uber model, leveraging mobile devices and geo location, consumers can quickly find trusted and skilled service providers in their vicinity, connecting the consumer and the service provider conveniently at the tap of the smartphone. This also enables price transparency and cost efficiency for all parties, integrity of service history and contractual fulfillment via smart contracts. Users can pay or be paid for services by Cryptocurrency."
+      ],
+      "tokenSymbol": "",
+      "category": "upcoming"
+    },
+    {
+      "id": "iconiq-lab",
+      "name": "Iconiq Lab",
+      "startDate": "Apr 15, 2018",
+      "endDate": "May 30, 2018",
+      "iconLocalUrl": "/images/iconiq-lab.png",
+      "website": "http://iconiqlab.com/",
+      "shortDescription": "ICO & Token Launch Accelerator Program",
+      "fullDescription": [
+        "Iconiq Lab is an Initial Coin Offer and Token Launch accelerator program. They source, fund, develop and accelerate the best crypto, blockchain and tokenizable startups to their own ICO or Token Sale. It will help launch tokens supported by real-world, sustainable business solutions.",
+        "Iconiq Lab’s ICNQ club membership token is the holder’s passport into the exclusive presales of the startups which graduate the accelerator program, with the associated bonuses and discounts. Only by holding ICNQ tokens in your own wallet can you invest BTC, ETH or another liquid crypto currency into the presales of the startups which graduate the Iconiq Lab accelerator, a unique first-mover advantage!Members of the ICNQ club will have exclusive presale privileges, platform access and Iconiq Lab community benefits."
+      ],
+      "tokenSymbol": "ICNQ",
+      "category": "upcoming"
+    },
+    {
+      "id": "friend",
+      "name": "FRIEND",
+      "startDate": "Apr 16, 2018",
+      "endDate": "May 16, 2018",
+      "iconLocalUrl": "/images/friend.png",
+      "website": "http://friendup.cloud/",
+      "shortDescription": "Friend drives Blockchain",
+      "fullDescription": [
+        "Friend is a powerful platform for developers. It connects arbitrary technologies and deploys them onto the internet. It reduces development overhead by providing a framework for user, access and file management. Additionally, it offers a graphical user interface with a window manager that works on every platform that has a web browser. Here, developers can tune their environment and manage their cloud resources.",
+        "Friend lets developers connect their applications to other apps running on the network to unleash functionality never seen before. Its technology enables creation of distributed systems that allow applications to share data and functionality -  code, compute, and storage - dynamically and cooperatively among two, or many, nodes to offer scale, efficiency, and truly best-of-breed features and capabilities across any work domains.",
+        "By providing virtual computer templates Friend also lets organisations deploy applications and services with zero deployment cost."
+      ],
+      "tokenSymbol": "FRND",
+      "category": "upcoming"
+    },
+    {
+      "id": "photochain",
+      "name": "Photochain",
+      "startDate": "Apr 05, 2018",
+      "endDate": "May 05, 2018",
+      "iconLocalUrl": "/images/photochain.png",
+      "website": "http://photochain.io/",
+      "shortDescription": "The Stock Photography Revolution",
+      "fullDescription": [
+        "Photochain revolutionizes the status quo of stock photography. It is a decentralized, peer-to-peer stock photography platform on blockchain with fair conditions, attractive incentivation mechanisms, lowest fees in the market and full control over the content, price and license type for the photographer. On the IPFS Photochain database, each uploaded photo is linked to a photographer through a blockchain transaction. This link cannot be removed or manipulated in any way. Photochain is in the pole position and ready to disrupt the monopolized stock photography industry with a great, experienced and influential team and board of advisors. We recently won 3rd place in the ICO Pitch Competition at the Blockchain Leadership. Thanks to our attractive demo MVP, the judges could see envision exactly what the final product will look like in addition to what we will achieve for photographers. We are partnered with the highly rated Swisscom Blockchain for advisory on our ICO and future strategy."
+      ],
+      "tokenSymbol": "PHOTON",
+      "category": "upcoming"
+    },
+    {
+      "id": "the4thpillar",
+      "name": "THE4THPILLAR",
+      "startDate": "TBD",
+      "endDate": "TBD",
+      "iconLocalUrl": "/images/the4thpillar.png",
+      "website": "http://www.the4thpillar.io/",
+      "shortDescription": "Changing The HR Industry",
+      "fullDescription": [
+        "The 4th Pillar, empower individuals to build a verified professional history identity, their personal decentralized savings crypto fund and at the same time, organizations can send multiple cross border payments, work-related documentation, recruit based on verified data and help reducing carbon&ecological footprint with document digitization. The FOUR token serves as main value, connects and fuels the 4th Pillar ecosystem."
+      ],
+      "tokenSymbol": "FOUR",
+      "category": "upcoming"
     }
   ]
 }

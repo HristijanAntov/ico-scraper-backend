@@ -23,5 +23,5 @@ function main(toggler) {
 
 main({
   apiOn: true,
-  backgroundCrawlOn: true,
+  backgroundCrawlOn: false,
 })
